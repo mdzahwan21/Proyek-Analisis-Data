@@ -1,0 +1,7 @@
+st.title('Bike Sharing Dashboard ✨')
+st.write('Setup environment')
+st.write('conda create --name main-ds python=3.9')
+st.write('conda activate main-ds')
+st.write('pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel')
+st.write('Run streamlit app')
+st.write('streamlit run dashboard.py')
