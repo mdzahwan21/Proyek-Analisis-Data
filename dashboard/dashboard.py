@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from babel.numbers import format_currency
 
-data_bikesharing = pd.read_csv('main_data.csv')
+data_bikesharing = pd.read_csv('dashboard/main_data.csv')
 
 # Sidebar
 with st.sidebar:
